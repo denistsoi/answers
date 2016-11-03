@@ -1,7 +1,7 @@
 # Interview Questions
 
 Source of interview questions that I've come across; Aimed to purposefully throw off the candidate.
-[Answers](https://github.com/denistsoi/interview-questions)  
+[Answers](https://github.com/denistsoi/interview-questions/tree/answers)  
 
 ### Note:
 

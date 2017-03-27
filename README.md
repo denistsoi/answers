@@ -1,7 +1,14 @@
 # Interview Questions
 
-Source of interview questions that I've come across; Aimed to purposefully throw off the candidate.
-[Answers](https://github.com/denistsoi/interview-questions/tree/answers)  
+Source of interview questions that I've come across; 
+
+### project directory
+
+    coding-challenges/  contains live coding assignments + answers
+    css-frontend/
+    js-frontend/
+    js-generic/
+    js-node/
 
 ### Note:
 

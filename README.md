@@ -4,7 +4,11 @@ Source of interview questions that I've come across;
 
 ### project directory
 
-    coding-challenges/  contains live coding assignments + answers
+    coding-challenges/      contains coding assignments/answers
+      9gag/
+      OneSky/
+      BitGameLabs/
+      ThunderbirdVentures/
     css-frontend/
     js-frontend/
     js-generic/
